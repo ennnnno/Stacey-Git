@@ -1,0 +1,14 @@
+foreach $root do
+  if $children do
+    <ul class="projects">
+      foreach $children do
+        <li class="col seven">
+          <p class="date col one">@date</p>
+          <h2 class="col five">
+            <a href="@url">@title</a>
+          </h2>
+        </li>
+      endforeach
+    </ul>
+  endif
+endforeach

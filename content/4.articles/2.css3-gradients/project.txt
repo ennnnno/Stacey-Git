@@ -1,0 +1,10 @@
+title: CSS3 Gradients
+-
+date: 2011, Jul 7
+-
+content: 
+This is a demo of Markdown
+------
+![Right](/images/me.jpg "Optional title")
+To try out Markdown just type in this text area, then click **preview**. You can try some of the examples from the cheat sheet on the right if you are stuck for inspiration.
+

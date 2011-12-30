@@ -1,0 +1,56 @@
+body{color:mintcream; background:tomato;}
+h2 a{border-bottom:2px solid mintcream;color:mintcream;}
+a{border-bottom:1px solid palegreen;text-decoration:none;color:palegreen;}
+body{font-family:'Open Sans', sans-serif; font-weight:400;line-height:1.321;text-align:center;padding:10px 0 40px}
+ul li,p,em,div.description{font-size:13px;font-style:normal}
+h1, h1 a{font-size:13px;font-weight:600;color:mintcream;}
+h1 strong{font-weight:500;text-transform:none;display:block;letter-spacing:0;}
+h2{font-size:26px;font-weight:600;letter-spacing:.02em;margin:0;}
+img[alt=Right] { float: right; }
+img {border-radius:2px;}
+img[alt=NoBR] {border-radius:0;}
+strong {font-weight:500;}
+p.date{font-size:10px;letter-spacing:.03em;}
+#container{width:860px;text-align:left;margin:0 auto;padding:5px 20px}
+.col{float:left;margin:0 0 0 20px;padding:0}
+.col .col{margin:0}
+.one{width:60px; text-align:right;padding:12.5px 20px 0 0}
+.two{width:140px}
+.three{width:220px}
+.four{width:300px}
+.five{width:380px}
+.six{width:460px}
+.seven{width:540px}
+.eight{width:620px}
+.nine{width:700px}
+.ten{width:780px}
+.eleven{width:860px}
+.twelve{width:940px}
+p{margin:0 0 5px}
+hr{display:block;clear:both;height:0;overflow:hidden;visibility:hidden;margin:0 0 45px;padding:0}
+.col hr{margin:0 0 15px}
+ul li{margin:0 0 3px}
+#navigation,ul.projects{list-style:none;margin:0;padding:0}
+#navigation{margin:10px 0 0 20px}
+#navigation ol{display:none;margin:0;padding:4px 0 4px 25px}
+ul.projects li{float:left;padding:0 0 8px}
+#footer{display:inline;line-height:1.4;margin:0 0 0 260px}
+div.description h2{padding:0 0 15px}
+#media{clear:both;padding:30px 0 0 70px}
+div.description #images{padding:0}
+#project-navigation{margin:0 0 0 20px}
+#project-navigation p,#gallery-navigation p{margin:0 0 1px}
+div.image{float:left;width:560px}
+a.atom-rss{font-size:.93em;letter-spacing:.08em;margin:0 0 0 6px;padding:1px 2px 0}
+#navigation li,ul.projects li,div.description p{clear:both}
+div.media,#media img{margin:0 0 10px}
+
+::-moz-selection {
+       background-color: palegoldenrod;
+       color: black;
+}
+
+::selection {
+       background-color: palegoldenrod;
+       color: black;
+}

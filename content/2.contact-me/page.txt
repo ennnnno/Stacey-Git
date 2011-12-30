@@ -1,0 +1,6 @@
+title: Contact Details
+-
+content:
+Heya I'm Euan Mead, this is my blog.
+
+I can be contacted at: <euan.i.mead@gmail.com>.
